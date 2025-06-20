@@ -60,7 +60,4 @@ pip install torch torchvision matplotlib pillow
 
 ---
 
-## 👤 Author
 
-Ziyi Wang  
-University of Glasgow – MSc Robotics & AI
